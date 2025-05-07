@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>{"95190d2 (HEAD -> master) Initial commit: set up Vite React app"}</p>
     </>
   )
 }
