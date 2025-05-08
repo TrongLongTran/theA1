@@ -14,7 +14,7 @@ function App() {
 
     <h3>Task 2: Git Config</h3>
     <ul>
-      <li>Running confid --global user.name/email will set name and email for our repositories</li>
+      <li>Running config --global user.name/email will set email and name in git global config</li>
       <li>It will be inside user.name</li>
       <li>git config --list will return
         <img src={ex3}></img>
