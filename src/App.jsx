@@ -30,6 +30,11 @@ function App() {
 
     <h3>Task 4: git diff</h3>
     <p>Git diff show the changes between staging area and directory, see changes line by line</p>
+    <p>warning: in the working copy of 'src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+diff --git a/src/App.jsx b/src/App.jsx
+index f67355a..bb18e1f 100644
+--- a/src/App.jsx
++++ b/src/App.jsx</p>
     <p>+: mean something are added into the current repository
        -: means that something are deleted from the repository
     </p>
