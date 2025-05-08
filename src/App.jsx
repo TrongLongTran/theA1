@@ -2,6 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import ex3 from "../public/ex3.png"
+import data from "../public/data.png"
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,7 +17,7 @@ function App() {
       <li>Running confid --global user.name/email will set name and email for our repositories</li>
       <li>It will be inside user.name</li>
       <li>git config --list will return
-        <img src='../../ex3.png'></img>
+        <img src={ex3}></img>
       </li>
       <li>We use "git status" to check if git is initialized or not</li>
     </ul>
@@ -41,7 +43,7 @@ function App() {
     <p>https://github.com/TrongLongTran/theA1</p>
 
     <h3>Task 7: Screen of git log</h3>
-    <img src="../../data.png" alt='newEx'></img>
+    <img src={data} alt='newEx'></img>
 
     <h3>.gitignore</h3>
     <p>.gitignore will tell Git that some files not tracked by it stay untracked</p>
