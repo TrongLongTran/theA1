@@ -37,7 +37,8 @@ function App() {
 
     <h3>Task 6: git push -u</h3>
     <p>-u will set upstream and will help to push or pull without going into main repeatedly.</p>
-    <p>in origin main, it will track the relationship between origin and local branch</p>
+    <p>In origin main, it will track the relationship between origin and local branch</p>
+    <p>https://github.com/TrongLongTran/theA1</p>
 
     <h3>Task 7: Screen of git log</h3>
     <img src="../../data.png" alt='newEx'></img>
