@@ -41,6 +41,7 @@ index f67355a..bb18e1f 100644
 
     <h3>Task 5: git restore</h3>
     <p>Git restore: this will restore file from previous commit or list</p>
+    <p>In the App.jsx file, the changes I made in that file are all removed and it got back to previous state</p>
 
     <h3>Task 6: git push -u</h3>
     <p>-u will set upstream and will help to push or pull without going into main repeatedly.</p>
